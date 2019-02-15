@@ -1,6 +1,9 @@
+nhentai-master
+===============
+
 这个项目主要代码来自于[tumblr-crawler](https://github.com/dixudx/tumblr-crawler)
 那个项目用于便捷获取tumblr中的图片和视频，我把它修改成了这个本子下载器
-===============
+
 
 这是一个[Python](https://www.python.org)的脚本,配置运行后下载nhentai中的本子
 或者可以直接使用编译好的.exe文件
