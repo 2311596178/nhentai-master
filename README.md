@@ -1,6 +1,6 @@
 nhentai-master
 ===============
-The main code for this project comes from[tumblr-crawler](https://github.com/dixudx/tumblr-crawler)
+The main code for this project comes from[tumblr-crawler](https://github.com/dixudx/tumblr-crawler).  
 That project was used to easily get pictures and videos from tumblr, and I modified it into this book downloader.
 
 
@@ -18,7 +18,7 @@ Find a text editor and open the file `sites.txt`, add the sites you want to down
 263183
 ```
 
-And then save the file, and run `python nhentai-master.py`
+And then save the file, and run `python nhentai-master.py`  
 or just click `python nhentai-master.exe`
 
 
@@ -30,5 +30,5 @@ When you search for Akane shinjou and Rikka takarada and need to download all se
 https://nhentai.net/search/?q=akane+shinjou++rikka+takarada
 ```
 
-And then save the file, and run `python nhentai-master.py`
+And then save the file, and run `python nhentai-master.py`  
 or just click `python nhentai-master.exe`

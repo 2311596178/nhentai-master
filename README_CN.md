@@ -1,7 +1,7 @@
 nhentai-master
 ===============
 
-这个项目主要代码来自于[tumblr-crawler](https://github.com/dixudx/tumblr-crawler)
+这个项目主要代码来自于[tumblr-crawler](https://github.com/dixudx/tumblr-crawler).  
 那个项目用于便捷获取tumblr中的图片和视频，我把它修改成了这个本子下载器
 
 
@@ -21,7 +21,7 @@ nhentai-master
 263183
 ```
 
-然后保存文件,在终端(terminal)里面运行`python nhentai-master.py`
+然后保存文件,在终端(terminal)里面运行`python nhentai-master.py`  
 或者直接点击运行nhentai-master.exe
 
 
@@ -32,7 +32,7 @@ nhentai-master
 https://nhentai.net/search/?q=akane+shinjou++rikka+takarada
 ```
 
-然后保存文件,在终端(terminal)里面运行`python nhentai-master.py`
+然后保存文件,在终端(terminal)里面运行`python nhentai-master.py`  
 或者直接点击运行nhentai-master.exe
 
 
